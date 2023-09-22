@@ -1,3 +1,5 @@
+<!doctype html>
+<html lang="en">
 <button class="open-kontak" onclick="openktk()"><input type="image" class="w-16 h-16" style='vertical-align: middle'
     src='/assets/img/live-chat-sampurna-group-biru.png' alt="Button Live Chat Biru - Sampurna Group" /></button>
     
@@ -14,3 +16,4 @@
       style='vertical-align: middle' src='/assets/img/live-chat-sampurna-group-merah.png'
       alt="Button Live Chat Merah - Sampurna Group" /></button>
 </div>
+</html>
